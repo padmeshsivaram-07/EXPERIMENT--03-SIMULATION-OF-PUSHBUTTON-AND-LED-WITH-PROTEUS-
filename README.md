@@ -70,17 +70,20 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 
-## STM 32 CUBE PROGRAM :
-
 
 
 
 ## Output screen shots of proteus  :
+<img width="540" height="667" alt="image" src="https://github.com/user-attachments/assets/11f0f566-dd13-4b07-b7d2-d169ce0cda4c" />
+
+<img width="511" height="651" alt="image" src="https://github.com/user-attachments/assets/331f5006-d8d8-4009-8874-f0b45d567fbf" />
 
 
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
+<img width="785" height="681" alt="image" src="https://github.com/user-attachments/assets/9194c551-d6c8-45fc-85dc-c9d12e7e00c4" />
+
  
  
  
